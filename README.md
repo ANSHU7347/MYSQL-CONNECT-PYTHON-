@@ -3,6 +3,7 @@
 
 
 ---How to connect the mysql to python--- 
+
 Step 1:Download mysql then create id and password after open workbeench and open localhost and enter the username and password.
 
 Step 2:open cmd then write some command and connect python to mysql .
